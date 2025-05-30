@@ -6,7 +6,7 @@ A modern, responsive **BMI Calculator** built with HTML, JavaScript, and Tailwin
 ![BMI Calculator Screenshot](Screenshot.png)
 
 ## Live Demo
-Check out the live demo [here](https://paban-blip.github.io/BMI-calculator-/)!
+Check out the live demo [here](https://Paban-1.github.io/BMI-calculator-/)!
 
 ## Features
 - **Responsive Design**: Works seamlessly on mobile, tablet, and desktop screens.

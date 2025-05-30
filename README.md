@@ -3,7 +3,7 @@ A sleek, modern BMI Calculator built with HTML, JavaScript, and Tailwind CSS. Fe
 
 A modern, responsive **BMI Calculator** built with HTML, JavaScript, and Tailwind CSS. This project allows users to calculate their Body Mass Index (BMI) by entering their height (in cm) and weight (in kg). It features a vibrant neon-themed UI, robust input validation, and color-coded BMI categories (Underweight, Normal, Overweight) with smooth animations.
 
-![BMI Calculator Screenshot](screenshot.png, pic.png)
+![BMI Calculator Screenshot](screenshot.png)
 
 ## Live Demo
 Check out the live demo [here](https://your-live-demo-link.com)!

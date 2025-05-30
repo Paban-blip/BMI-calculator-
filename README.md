@@ -3,10 +3,10 @@ A sleek, modern BMI Calculator built with HTML, JavaScript, and Tailwind CSS. Fe
 
 A modern, responsive **BMI Calculator** built with HTML, JavaScript, and Tailwind CSS. This project allows users to calculate their Body Mass Index (BMI) by entering their height (in cm) and weight (in kg). It features a vibrant neon-themed UI, robust input validation, and color-coded BMI categories (Underweight, Normal, Overweight) with smooth animations.
 
-![BMI Calculator Screenshot](screenshot.png)
+![BMI Calculator Screenshot](Screenshot.png)
 
 ## Live Demo
-Check out the live demo [here](https://your-live-demo-link.com)!
+Check out the live demo [here](https://paban-blip.github.io/BMI-calculator-/)!
 
 ## Features
 - **Responsive Design**: Works seamlessly on mobile, tablet, and desktop screens.
@@ -31,5 +31,5 @@ To run the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/bmi-calculator.git
-   cd bmi-calculator
+   git clone https://paban-blip.github.io/BMI-calculator-/
+   cd BMI-calculator-
